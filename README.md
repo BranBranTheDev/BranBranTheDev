@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BranBranTheDev">Programmer</a>, <a href="www.linkedin.com/in/brandon-rivera-787009212">Software Support Engineer</a></h1>
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BranBranTheDev">Programmer</a>, <a href="https://www.linkedin.com/in/brandon-rivera-787009212/">Software Support Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

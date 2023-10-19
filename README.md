@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BranBranTheDev">Programmer</a>, <a href="www.linkedin.com/in/brandon-rivera-787009212">Software Support Engineer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Loading...</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+<b>[linkedin]: www.linkedin.com/in/brandon-rivera-787009212 </b>
+
+
 
 <!--
-**BranBranTheDev/BranBranTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
